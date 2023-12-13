@@ -1,7 +1,6 @@
 
 ### PHP Signup Processing (`signup_process.php`):
 
-```php
 <?php
 if ($_SERVER["REQUEST_METHOD"] === "POST") {
     // Validate username and passwords (this is a simplified example)
